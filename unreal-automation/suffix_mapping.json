@@ -1,0 +1,19 @@
+
+{
+  "Blueprint" : "_BP",
+  "StaticMesh" : "_SM",
+  "Material" : "_M",
+  "MaterialInstanceConstant" : "_MI",
+  "MaterialFunction" : "_MF",
+  "ParticleSystem" : "_PS",
+  "SoundCue" : "_SC",
+  "SoundWave" : "_S",
+  "Texture2D" : "_T",
+  "WidgetBlueprint" : "_WBP",
+  "MorphTarget" : "_MT",
+  "SkeletalMesh" : "_SM",
+  "RenderTarget" : "_RT",
+  "TextureRenderTarget2D" : "_TRT",
+  "LevelSequence" : "_LS",
+  "NiagaraSystem" : "_NS"
+}
