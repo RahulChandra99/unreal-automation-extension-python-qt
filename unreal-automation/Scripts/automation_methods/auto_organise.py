@@ -2,7 +2,7 @@ import unreal
 import os
 
 
-def auto_organise():
+def auto_organise() :
     # instances fo unreal classes
     editor_util = unreal.EditorUtilityLibrary()
     system_lib = unreal.SystemLibrary()
