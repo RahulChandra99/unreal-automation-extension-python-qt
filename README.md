@@ -1,5 +1,14 @@
 # Quick Assistant : Editor Toolkit (An Unreal Automation Tool)
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Result](#result-video)
+3. [Tool Elements](#tool-elements)
+4. [Installation & Build](#installation--build)
+    - [Setting up Python in Unreal Engine](#setting-up-python-in-unreal-engine)
+5. [How to Use](#how-to-use)
+6. [References](#references)
+
 ## Introduction
 
 Quick Assistant empowers developers with a suite of time-saving tools and 
@@ -28,7 +37,7 @@ development by minimizing manual administrative efforts.
 >
 > Tool is originally created using UE 5.2.1
 
-## Result [Video](https://www.youtube.com/watch?v=WPzAcpBbWoc&ab_channel=RahulChandra)
+## [Result Video](https://www.youtube.com/watch?v=WPzAcpBbWoc&ab_channel=RahulChandra)
 ![](./unreal-automation/images/img.png) 
 ![](./unreal-automation/images/img_1.png) 
 ![](./unreal-automation/images/img_2.png) 
