@@ -1,4 +1,5 @@
-# Quick Assistant : Editor Toolkit (An Unreal Automation Tool)
+<h1 align = center>Quick Assistant : Editor Toolkit (An Unreal Automation Tool)</h1>
+<h4 align="center">Pipeline and Technical Director Assignment <br> Bournemouth University'24 </h4>
 
 ## Table of Contents
 1. [Introduction](#introduction)
